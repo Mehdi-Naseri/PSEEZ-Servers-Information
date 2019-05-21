@@ -1,0 +1,16 @@
+d:\users\mehdiadmin\documents\visual studio 2010\Projects\RemoteServerInformation\RemoteServerInformation\bin\Debug\RemoteServerInformation.exe
+d:\users\mehdiadmin\documents\visual studio 2010\Projects\RemoteServerInformation\RemoteServerInformation\bin\Debug\RemoteServerInformation.pdb
+d:\users\mehdiadmin\documents\visual studio 2010\Projects\RemoteServerInformation\RemoteServerInformation\bin\Debug\RemoteServers.exe
+d:\users\mehdiadmin\documents\visual studio 2010\Projects\RemoteServerInformation\RemoteServerInformation\bin\Debug\ControlDashboard.pdb
+d:\users\mehdiadmin\documents\visual studio 2010\Projects\RemoteServerInformation\RemoteServerInformation\bin\Debug\RemoteServers.pdb
+d:\users\mehdiadmin\documents\visual studio 2010\Projects\RemoteServerInformation\RemoteServerInformation\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\mehdiadmin\documents\visual studio 2010\Projects\RemoteServerInformation\RemoteServerInformation\obj\x86\Debug\MainWindow.baml
+d:\users\mehdiadmin\documents\visual studio 2010\Projects\RemoteServerInformation\RemoteServerInformation\obj\x86\Debug\MainWindow.g.cs
+d:\users\mehdiadmin\documents\visual studio 2010\Projects\RemoteServerInformation\RemoteServerInformation\obj\x86\Debug\App.g.cs
+d:\users\mehdiadmin\documents\visual studio 2010\Projects\RemoteServerInformation\RemoteServerInformation\obj\x86\Debug\RemoteServerInformation_MarkupCompile.cache
+d:\users\mehdiadmin\documents\visual studio 2010\Projects\RemoteServerInformation\RemoteServerInformation\obj\x86\Debug\RemoteServerInformation.g.resources
+d:\users\mehdiadmin\documents\visual studio 2010\Projects\RemoteServerInformation\RemoteServerInformation\obj\x86\Debug\RemoteServerInformation.Properties.Resources.resources
+d:\users\mehdiadmin\documents\visual studio 2010\Projects\RemoteServerInformation\RemoteServerInformation\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\users\mehdiadmin\documents\visual studio 2010\Projects\RemoteServerInformation\RemoteServerInformation\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\users\mehdiadmin\documents\visual studio 2010\Projects\RemoteServerInformation\RemoteServerInformation\obj\x86\Debug\RemoteServerInformation.exe
+d:\users\mehdiadmin\documents\visual studio 2010\Projects\RemoteServerInformation\RemoteServerInformation\obj\x86\Debug\RemoteServerInformation.pdb
